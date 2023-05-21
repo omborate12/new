@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Western allies to send fighting vehicles to Kyiv",
+            "description": "Germany and the US agree to join France in boosting Ukraine's military capability on the battlefield.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64184430",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11DC9/production/_128216137_marder.jpg",
+            "publishedAt": "2023-01-06T17:52:20.5225847Z",
+            "content": "Germany and the US have agreed to join France in sending armoured fighting vehicles to Ukraine - a move seen as a significant boost to its military's capability on the battlefield.\r\nFor months, Ukrai… [+3800 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch waves gush ashore as storms batter California",
+            "description": "After a bomb cyclone hit the state, now an atmospheric river is bringing wind, rain and flooding.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64182785",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D98/production/_128221137_p0dtphwz.jpg",
+            "publishedAt": "2023-01-06T17:22:17.2723302Z",
+            "content": "WATCH: William and Harry, a life in the spotlight. Video, 00:01:36WATCH: William and Harry, a life in the spotlight"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump sued for wrongful death on second anniversary of Capitol riots",
+            "description": "The lawsuit comes as Washington marks the second anniversary of the Capitol riots.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64176567",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D46D/production/_128218345_gettyimages-1246019106.jpg",
+            "publishedAt": "2023-01-06T17:07:24.8507123Z",
+            "content": "The partner of a US Capitol Police officer who died a day after the 6 January 2021 riots has sued Donald Trump for wrongful death. \r\nThe lawsuit, filed on Thursday , says Trump \"intentionally riled u… [+2928 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US political chaos drags on for 12th Speaker vote",
+            "description": "Twenty Republican rebels are derailing Kevin McCarthy's attempt to win the US House leadership.",
+            "url": "http://www.bbc.co.uk/news/live/world-us-canada-64189582",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-01-06T16:37:22.7412099Z",
+            "content": "Lauren Boebert and Matt Gaetz are two Republican hardliners leading the rebellionImage caption: Lauren Boebert and Matt Gaetz are two Republican hardliners leading the rebellion\r\nThe start of a new C… [+817 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Damar Hamlin breathing on his own: Buffalo Bills",
+            "description": "His team says he has been able to talk to his family and the recovery is remarkable.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64121507",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8CD0/production/_128184063_hamlin-gettyimages-1433216067.jpg",
+            "publishedAt": "2023-01-06T16:22:21.9140518Z",
+            "content": "Media caption, Watch: Damar Hamlin asks doctors who won the game\r\nUS National Football League star Damar Hamlin has had his breathing tube removed and is able to talk, his team said on Friday. \r\nThe … [+2350 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hawaii: Footage shows Kilauea volcano erupting again",
+            "description": "Kilauea's last eruption went on for 16 months before the volcano became dormant on 14 December.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64176566",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5F3D/production/_128218342_30ba70c963d17d5b0c0844ce136c9b86bd0c5f050_0_3264_24481000x750.jpg",
+            "publishedAt": "2023-01-06T14:22:17.3509382Z",
+            "content": "One of the world's most active volcanoes has erupted again in Hawaii, nearly one month after it stopped releasing lava, scientists said. \r\nGlowing lava was observed inside Hawaii's Kilauea volcano on… [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "How January 6 may have doomed Kevin McCarthy's speaker hopes",
+            "description": "The would-be speaker may learn his fate on the second anniversary of the hardest day of his career.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64182829",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C15/production/_128212867_gettyimages-1201951895.jpg",
+            "publishedAt": "2023-01-06T11:22:25.8811382Z",
+            "content": "Kevin McCarthy's gruelling bid to become speaker of the House of Representatives may finally be decided on the second anniversary of perhaps the most difficult day of his career.\r\nOn January 6, 2021,… [+3947 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Harry's Taliban kill remarks tarnish his reputation - ex-commander",
+            "description": "In his book, Harry describes killing 25 Taliban fighters as being like removing chess pieces from a board.",
+            "url": "http://www.bbc.co.uk/news/uk-64185176",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3B2F/production/_128215151_gettyimages-159865743.jpg",
+            "publishedAt": "2023-01-06T10:07:20.3499352Z",
+            "content": "Prince Harry has tarnished his reputation with remarks about killing Taliban fighters in Afghanistan, a former British commander says. \r\nIn his memoir, the Duke of Sussex describes his 25 kills as \"c… [+1065 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China Covid: Young people self-infect as fears for elderly grow",
+            "description": "Cases are surging as the country reopens after the sudden reversal of three years of restrictions.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64183281",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E705/production/_128214195_gettyimages-1245933895.jpg",
+            "publishedAt": "2023-01-06T07:52:25.6473026Z",
+            "content": "When Mr Chen's 85-year-old father fell ill with Covid in December, it was impossible to get an ambulance or see a doctor.\r\nThey went to Chaoyang Hospital in Beijing, where they were told to either tr… [+5458 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Harry book details family rows and anger over Diana",
+            "description": "Prince Harry's autobiography, Spare, reveals a series of grievances and accusations towards the Royal Family.",
+            "url": "http://www.bbc.co.uk/news/live/uk-64183891",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-01-06T07:52:21.9669637Z",
+            "content": "Thirty years ago, writer Andrew Morton collaborated with Harry's mother Diana, on the book Diana: Her True Story.\r\nHe's been speakng to the BBC about Prince Harry's memoir and the furore it has cause… [+328 chars]"
+        }
+    ]
+}
